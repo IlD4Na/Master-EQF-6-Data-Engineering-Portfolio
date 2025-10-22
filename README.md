@@ -14,7 +14,7 @@ Visualizza certificato finale (PDF) work in progress...
 
 ## 📂 Progetti Principali
 
-<img align="left" width="250" height="140" src="https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/blob/main/images/1.png?raw=true">  **[Gestore spese domestiche in code](https://github.com/IlD4Na/Python_project_gestore_spese)**
+<img align="left" width="250" height="130" src="https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/blob/main/images/1.png?raw=true">  **[Gestore spese domestiche in code](https://github.com/IlD4Na/Python_project_gestore_spese)**
 
 Sviluppo di un’applicazione Python per registrare, gestire e analizzare le spese domestiche.
 L’app consente di aggiungere transazioni, visualizzare report mensili e identificare le spese principali.
