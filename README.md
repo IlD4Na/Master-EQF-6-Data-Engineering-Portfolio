@@ -8,7 +8,7 @@ Visualizza certificato finale (PDF) work in progress...
 
 
 📚 Certificati dei singoli moduli completati:  
-🔗 [Visualizza certificati moduli] work in progress...
+🔗 [Visualizza certificati moduli](https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/tree/main/Certificazioni%20Data%20Engineering)
 
 ---
 
