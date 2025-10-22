@@ -30,7 +30,7 @@ L’obiettivo è studiare i rendimenti storici, la volatilità e i trend di merc
 
 ---
 
-<img align="left" width="250" height="140" src="https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/blob/main/images/3.jpeg?raw=true">  **[Analisi dei clienti di una banca](https://github.com/IlD4Na/Progetto_SQL)**
+<img align="left" width="250" height="130" src="https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/blob/main/images/3.jpeg?raw=true">  **[Analisi dei clienti di una banca](https://github.com/IlD4Na/Progetto_SQL)**
 
 Ho creato una tabella unica contenente indicatori comportamentali dei clienti di una banca, combinando dati transazionali e informazioni sui conti. L’obiettivo è fornire una base solida per modelli di machine learning volti a prevedere il comportamento futuro dei clienti.
 
