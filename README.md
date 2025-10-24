@@ -4,7 +4,7 @@ Questa repository raccoglie tutti i progetti realizzati in ambito **Data Enginee
 
 🎓 Certificazione in Data Engineering (EQF 6)  
 *Rilasciata da ICEP s.r.o. – 400 ore, accreditamento ISO/IEC 17024*  
-(Visualizza certificato finale (PDF))[https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/blob/main/Data_Engineer_Certificate.pdf]
+[Visualizza certificato finale (PDF)](https://github.com/IlD4Na/Master-EQF-6-Data-Engineering-Portfolio/blob/main/Data_Engineer_Certificate.pdf)
 
 
 📚 Certificati dei singoli moduli completati:  
